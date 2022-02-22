@@ -1,0 +1,10 @@
+.Tree-node {
+  display: flex;
+  align-items: center;
+  grid-gap: 10px;
+}
+
+.Tree-node-action-btns {
+  display: flex;
+  grid-gap: 10px;
+}
